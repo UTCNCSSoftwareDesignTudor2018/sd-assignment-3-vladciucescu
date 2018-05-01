@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.mongodb:mongodb-driver:3.6.3">
+    <archive path="C:/Users/ciuce/.m2/repository/org/mongodb/mongodb-driver/3.6.3/mongodb-driver-3.6.3.jar" />
+  </library>
+  <library name="Maven: org.mongodb:bson:3.6.3">
+    <archive path="C:/Users/ciuce/.m2/repository/org/mongodb/bson/3.6.3/bson-3.6.3.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongodb-driver-core:3.6.3">
+    <archive path="C:/Users/ciuce/.m2/repository/org/mongodb/mongodb-driver-core/3.6.3/mongodb-driver-core-3.6.3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.5">
+    <archive path="C:/Users/ciuce/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.5/jackson-core-2.9.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.5">
+    <archive path="C:/Users/ciuce/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.5/jackson-annotations-2.9.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.5">
+    <archive path="C:/Users/ciuce/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.5/jackson-databind-2.9.5.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.2.0-RC1">
+    <archive path="C:/Users/ciuce/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.2.0-RC1/junit-jupiter-api-5.2.0-RC1.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.0.0">
+    <archive path="C:/Users/ciuce/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.0.0">
+    <archive path="C:/Users/ciuce/.m2/repository/org/opentest4j/opentest4j/1.0.0/opentest4j-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.2.0-RC1">
+    <archive path="C:/Users/ciuce/.m2/repository/org/junit/platform/junit-platform-commons/1.2.0-RC1/junit-platform-commons-1.2.0-RC1.jar" />
+  </library>
+</eclipse-userlibraries>
+
